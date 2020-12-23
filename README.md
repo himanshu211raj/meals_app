@@ -1,6 +1,8 @@
 # meals_app
 
-A new Flutter project.
+A new Flutter project named Meals App.
+
+This app basically shows you some meals which is fetched from internet via URL and provides you all the details of that meals like their difficulty level for making it, materials require to be made. Also in this app there is a filter button, after applying it you can customize your meals at that time by saving the filter, but after closing the app filter got deleted and  you have to select filter againg if you want to do so.
 
 ## Getting Started
 
